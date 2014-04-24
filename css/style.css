@@ -193,10 +193,10 @@ body {
 #article {
   position: absolute;
   right: -30px;
-  width: 500px;
+  width: 380px;
   margin: 0 100px;
   padding: 60px 0 80px;
-  text-align: justify;
+  text-align: left;
 }
 
 #header {
@@ -223,7 +223,7 @@ p {
   margin: 0 0 1em;
   font-style: normal;
   font-size: 1.5em;
-  line-height: 1.2em;
+  line-height: 1.5em;
   color: white;
   z-index: 2;
 }
