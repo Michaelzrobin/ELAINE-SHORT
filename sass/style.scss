@@ -66,20 +66,19 @@ html, body {
 body { 
   // height: 100%;
   font-size: 10px; 
-  background: url('../rotofugi3.jpg') no-repeat fixed top left;
+  background: url('../rotofugi2.jpg') no-repeat fixed top left;
   background-size: cover; 
 }
 
 #article {
-	position: absolute;
-  right: -30px;
-	width: 500px;
+	position: relative;
+  left: 0;
+	width: 680px;
 	margin: 0 100px;
-  padding: 60px 0 80px;	
-  text-align: justify;
+  padding: 100px 0 80px;
 }
 #header {
-	margin-bottom: 15px;
+	margin-bottom: 30px;
 }
 
 h1{
@@ -89,7 +88,7 @@ h1{
 h1 {
 	margin: 0;
 	font-family: "nevis", serif;
-	font-size: 5em;
+	font-size: 7.5em;
 	font-weight: 400;
 	// font-style: italic;
 }
@@ -101,7 +100,7 @@ p, a {
 p {
 	margin: 0 0 1em;
 	font-style: normal;
-	font-size: 2em;
+	font-size: 3em;
 	line-height: 1.2em;
 	color: white;
   z-index:2;
