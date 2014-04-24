@@ -210,19 +210,19 @@ h1 {
 h1 {
   margin: 0;
   font-family: "nevis", serif;
-  font-size: 5em;
+  font-size: 3.75em;
   font-weight: 400;
 }
 
 p, a {
-  font-family: "times new roman", Georgia, sans-serif;
+  font-family: "futura", Georgia, sans-serif;
   font-weight: 300;
 }
 
 p {
   margin: 0 0 1em;
   font-style: normal;
-  font-size: 2em;
+  font-size: 1.5em;
   line-height: 1.2em;
   color: white;
   z-index: 2;
